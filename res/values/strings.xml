@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello"></string>
+    <string name="app_name">LottoHR</string>
+    <string name="lottooftoday">LottoOfToday</string>
+    <string name="last_number">Dopunski broj</string>
+    <string name="joker_number">Joker broj</string>
+    <string name="lblsuper7">Super 7</string>
+    <string name="super7">Super 7</string>
+    <string name="archive">Arhiva</string>
+    <string name="no_archive">Archive is empty</string>
+    <string name="lotto_7_archive">Loto 7/39 arhiva</string>
+    <string name="lotto_6_archive">Loto 6/45 arhiva</string>
+    <string name="loto_7_39_title">Loto 7/39</string>
+    <string name="loto_7_39_arhiva_title">Loto 7/39 arhiva</string>
+    <string name="loto_6_45_title">Loto 6/45</string>
+    <string name="loto_6_45_arhiva_title">Loto 6/45 arhiva</string>
+    <string name="txt_internet_connection">Morate biti spojeni na internet</string>
+
+</resources>

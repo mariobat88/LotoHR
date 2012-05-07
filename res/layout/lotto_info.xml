@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    <TextView
+        android:id="@+id/lastLottoDate"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+    
+    <EditText android:id="@+id/lottoOfToday"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/lottooftoday"
+        android:focusable="false"
+        android:textColor="#ffffff" />
+    
+    <TextView android:id="@+id/lblLastNumber"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/last_number" />
+    
+    <EditText android:id="@+id/editLastNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/last_number"
+        android:focusable="false"
+        android:textColor="#ffffff" />
+    
+	 <TextView android:id="@+id/lblJoker"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/joker_number" />
+	 
+	 <EditText android:id="@+id/editJokerNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/joker_number"
+        android:focusable="false"
+        android:textColor="#ffffff" />
+	 
+	  <TextView android:id="@+id/lblsuper7"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/super7" />
+	 
+	 <EditText android:id="@+id/editSuper7Number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/super7"
+        android:focusable="false"
+        android:textColor="#ffffff" />
+</LinearLayout>
